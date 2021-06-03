@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sixe matters of state, which hath lately hapned between His Majesty and his high court of Parliament</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60318</idno><idno type="EEBO-CITATION">18429228</idno>
+  <idno type="VID">107634</idno>
+  <idno type="EEBO-PROQUEST">2240876380</idno>
+  
+            <idno type="STC">Wing S3914</idno>
+            <idno type="STC">ESTC R39552</idno>
+            <idno type="OCLC">18429228</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1643:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sixe matters of state, which hath lately hapned between His Majesty and his high court of Parliament</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules and T. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: Pages stained; defective University of Illinois (Urbana-Champaign Campus). Library copy spliced at end.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+                  <note>(from t.p.) First, His Majesties demands to the gentry of Yorke-shire, concerning the towne of Hull, answered by two severall parties --Secondly, the humble answer of those, who petitioned to His Majesty the thirtieth of April, and divers other knights and gentlemen of that country --Thirdly, the humble answer of the gentry of the county of Yorke -- Fourthly, the humble petitions of the gentrie, ministers, and free-holders of the countie palatine of Chester, presented to His Majestie at York, 1642 -- Fifthly, His Majesties answer to the humble petition of the gentlemen, free-holders, and ministers of the county Palatine of Chester delivered to His Majestie at York, the 7 of May, 1642 -- Sixtly, a letter sent from Hull, to the right worshipfull the high sheriffe of York-shire, together with the gentrie of the countie, now attending His Majesties pleasure at York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107634:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:107634:6"/>
+            <pb facs="tcp:107634:6"/>
+            <p>SIXE Matters of State, which hath lately hapned between his Majesty, and his high Court of PARLIAMENT.</p>
+            <list>
+               <item>
+                  <hi>First,</hi> His <hi>Majesties Demands to the Gentry of</hi> Yorke-shire, <hi>concerning the Towne of</hi> Hall, <hi>answered by two severall parties.</hi>
+               </item>
+               <item>
+                  <hi>Secondly, The humble Answer of those, who petitioned to his Majesty the thirtieth of</hi> April, <hi>and divers other Knights and Gentlemen of that Country.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly, the humble answer of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entry of the County of</hi> Yorke.</item>
+               <item>
+                  <hi>Fourthly, The humble Petition of the Gentrie, Ministers, and Free-holders of the Countie Palatine of</hi> Chester, <hi>presented to his Majestie at</hi> York. 1642.</item>
+               <item>
+                  <hi>Fifthly his Majesties Answer to the humble Petition of the Gentlemen, Free-holders, and Ministers of the County Pa<g ref="char:EOLhyphen"/>latine of</hi> Chester, <hi>delivered to his Majestie at</hi> York, <hi>the 7. of</hi> May. 1642.</item>
+               <item>
+                  <hi>Sixtly,</hi> A <hi>Letter sent from</hi> Hull, <hi>to the Right Worshipfull the high Sheriffe of</hi> York-shire, <hi>together with the Gentrie of that Countie, now attending hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Majesties pleasure at</hi> York.</item>
+            </list>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coules,</hi> and <hi>T. Bates.</hi> 164<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107634:7"/>
+            <head>His Majesties demands to the Gentry of <hi>York-Shire,</hi> concerning the Towne of <hi>Hull,</hi> Answered by two severall parties.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee conceive that the substance of His Majesties proposition unto us the 30. of <hi>April</hi> consisted in two particulars, First, to know, Whether wee would defend his Majesties Royall Person from violence, or no, according to our duties. Secondly, To have our advice concerning his Majesties not being admitted in<g ref="char:EOLhyphen"/>to his Towne of Hull, and how his Majesty may be vindica<g ref="char:EOLhyphen"/>ted in his honour for that affront, and how he may be put in<g ref="char:EOLhyphen"/>to the possession of his owne.</p>
+         </div>
+         <div type="text">
+            <head>The humble Answer of those who Petitioned your Majesty the 30. of <hi>April.</hi> and divers other Knights and Gentlemen.</head>
+            <opener>May it please your most Excellent Majesty,</opener>
+            <p>
+               <hi>WEe shall be ready to defend his Majesties person from violence, by al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> such waies, as the Law and our du<g ref="char:EOLhyphen"/>ties bind us. And for the meanes to uindicate your Majesties honour, and to put you into possession of your owne, Wee conceive that the best advice, that we can of<g ref="char:EOLhyphen"/>fer unto your Majesty is, humbly to desire you to hearken to the Counsels of your Parliament, who (we assure our selves will bee carefull of your Majesties person and honour, and to whom your Majesty hath already bin pleased to direct a message to that purp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:107634:7"/>
+            <head>The humble Answer of the Gentrie of the County of <hi>York.</hi>
+            </head>
+            <p>ACcording to Your Majesties Command to Your Ma<g ref="char:EOLhyphen"/>jesties proposition, we professe our willingnesse, as in duty wee are bound to defend your Majesties Sacred person against all Forraigne and Domestick attempts, to the uttermost of our power, and as our allegiance binds us, And for the keeping of your Majesties honour, touching the bu<g ref="char:EOLhyphen"/>sinesse of Hull, Your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty being pleased to commend it to Your Parliament, the h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh Counsell of Your Kingdome, wee doe humbly crave pardon that wee doe not interpose: But forasmuch as Your Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty may looke for a particular satisfaction at our hands, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e humbly and hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ily prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse that wee shall be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady to serve Your Majesty in the same and all other occasions, with our lives and fortunes, as farre as your Majesty shall bee pleased legally to enable and com<g ref="char:EOLhyphen"/>mand us.</p>
+         </div>
+         <div type="petition">
+            <head>To the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> most Excellent Majestie: The humble petition of the Gentrie, Ministers and Free-Holders of the Countie Palatine of <hi>Chester,</hi> and of the In<g ref="char:EOLhyphen"/>quests serving at the Assizes for the body of the said Countie. Pre<g ref="char:EOLhyphen"/>sented to his Majestie at <hi>Yorke,</hi> May 7. 1642.</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat though our heart-breaking griefes have beene many and great, through a lively apprehension of our wofull distractions, which have beene of late much encreased by this long night of your absence from your great Councell, yet we have had some sur<g ref="char:EOLhyphen"/>viving reliques of hop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that the sighs and grones▪ the teares and prayers of so many dutifull and well affected Subjects from all parts might (in time) have been accepted, and at length have pro<g ref="char:EOLhyphen"/>ved powerfull to have melted your royall brest into compassion, and with (such a loving and pleasant violence) might have won you to em<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>race againe with all tendernesse, your whole Kingdome as it is at this present represented in Parliament.</p>
+            <pb facs="tcp:107634:8"/>
+            <p>But now we lament, that even those hopes appeare to us gashly, as breathing their last, having little vigour remaining in them to uphold our heart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for our sorrowes are doubled, our feares multi<g ref="char:EOLhyphen"/>plyed, by the report of your Majesties resolutions, to undertake a dangerous voyage into your Kingdome of Ireland, whereon wee look with much wond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r &amp; astonishment▪ far be it from you (dread Soveraigne) to blame our hearts, which (guided by the strength of Law and dutie) cannot consent to a journey so perillous, by which your Royall Person (wherein wee challenge so great an interest, that it is no more Yours than ours) shall undergoe varietie of dan<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs by sea and land, wind and waters, having no difference be<g ref="char:EOLhyphen"/>twixt a King and his meanest vassall.</p>
+            <p>And if God (the Guardian and preserver of Princes) shall safely waft you over, what valuable securitie can bee given us of Your lif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, being amongst such Popish, barbarous, and cru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Rebels▪ as (h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving banished the sense of all Religion, Pietie, and Humanitie▪ and rejecting God, and you their King from ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gning over them,) do c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue to mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther daily your innoce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and Protestant Sub<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts, of all ages, sexes, and conditions, and which they would perswade the world they doe act by Your Au<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>horiti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Approbation▪ and Command, thereby heaping vengeance upon their owne heads, and rendring them unc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pable and u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>worthy the thoughts of the least g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace and favour; let Your Iustice, we beseech Your Majesty, have its proper work upon them, and your mercie upon us, by gran<g ref="char:EOLhyphen"/>ting our most humble prayers to these particulars:</p>
+            <list>
+               <item>To comfort our hearts by your residing where you may with best conveniencie consult with your great Councell before you thus hazard your Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son and your people.</item>
+               <item>To consider to what danger hereby you expose us to the Po<g ref="char:EOLhyphen"/>pish faction, when your Majestie shall leave us naked, and not put into a posture of defence, to repell the rage and attempts of the enemies to our Religion, when wee have too just cause to feare, that they do but wait for an opportunitie to bring to birth their Cruell Conceptions. And what so great advan<g ref="char:EOLhyphen"/>tage can they hope for, as would be this of Your absence.</item>
+               <item>To advise whether this journey would not much retard the intended reliefe for Ireland since (upon the first rumour) many who were minded to subscribe thereto, doe demur in their proceedings, and others wish they might recall what they have subscribed.</item>
+               <pb facs="tcp:107634:8"/>
+               <item>Not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o deprive us at once of that poore remainder of hope w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have to ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p further good by the endevors of Your Parliament▪ whereof we shall despaire, when Your Presence shall be wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing to infuse life in their Proposals and Conclusions.</item>
+               <item>To beleeve that a journey to White-Hall will be the more fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Your Honour and safetie, and far more acceptable to your truest Subjects than a voyage to Ireland.</item>
+               <item>To view at our humble entreaty that part of King <hi>Davids</hi> story, who being resolved in person to war against his owne Re<g ref="char:EOLhyphen"/>bels, acquainted the people with his intention, in these words of resolution, I will go with you my selfe also, but his best Sub<g ref="char:EOLhyphen"/>jects (that were ready to hazard their lives for him, would not suffer him to venture his regall Person, which was to them so perillous) opposed him in those tearmes, <hi>Thou shalt not go forth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> neither did <hi>David</hi> reject them as presumptuous, knowing that their confident expression in that partic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lar, was the issues of their dutie and love, but gave them this mild and satisfactorie reply, (which we humbly beg may be your Majesties answer to your Parliament: Vs, and all other your good Subjects) What seemeth you best, that will we doe.</item>
+            </list>
+            <closer>So shall we ever pray, &amp;c.</closer>
+         </div>
+         <div type="response">
+            <head>His Majesties Answer to the Humble Petition of the Gentle-men, Free-Holders, and Ministers of the Countie Pala<g ref="char:EOLhyphen"/>tine of <hi>Chester,</hi> delivered to his Majestie at <hi>York,</hi> May 7. 1642.</head>
+            <opener>
+               <dateline>At the Court at <hi>York,</hi>
+                  <date>May 9. 1542.</date>
+               </dateline>
+               <hi>His Majestie hath given me expresse command to give you this His Answer to your Petition.</hi>
+            </opener>
+            <p>THat He sees plainly that this Petition of yours hath beene fra<g ref="char:EOLhyphen"/>med without having heard the Answer His Majestie gave to His Parliament, upon their Petition to Him, for desisting from his journey into <hi>Ireland;</hi> for Hee cannot think that that Countrey (from whence Hee hath received formerly so good expressions of their loyall intentions, by two former Petitions presented long since to Him and the Parliament) would have been so much mista<g ref="char:EOLhyphen"/>ken, as to have made this Petition, after they had seene and well considered his Majesties said Answer. And his Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stie observes
+<pb facs="tcp:107634:9"/> very well, that this Petition is not like others, which by an un<g ref="char:EOLhyphen"/>timely zeale, have desired Him to returne to his Parliament; You only desiring Him there to reside, where with more convenienci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and secu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itie He m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y consult with his great Councell, than by go<g ref="char:EOLhyphen"/>ing i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to <hi>Ireland:</hi> His Majest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e being confident, That your well w<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ng of h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Answers concerning that subject, hath beene the cau<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you have no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imitated some few other Countries in that particular; And that y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u have well consider<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Rebellious Af<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ont off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red to Him at <hi>Hu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> by an hostile opposition of His en<g ref="char:EOLhyphen"/>trance; and therefore beleeves that the same reason which made you, at this time expresse your tender care of his Person, and the for<g ref="char:EOLhyphen"/>mer good expression<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you made of your loyaltie and right-set affe<g ref="char:EOLhyphen"/>ctions to the good of the whole Kingdome may sooner induce you to petition the Parliament to apply themselves to a right unde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stan<g ref="char:EOLhyphen"/>ding of his Majesties wayes and intentions, and to doe Him justice for that Aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ont, than make you to prefer any such ill-grounded Pe<g ref="char:EOLhyphen"/>tition. And that you may be the better enformed of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majesties proceedings in those particulars; Hee recommends to you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> view and consideration, his Answers to the Declaration presented to Him at <hi>New-Market,</hi> to the Petition presented to Him at <hi>York,</hi> the 26 of March last, concerning his journey into <hi>Irela<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> his two Messages <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Declaration concerning <hi>Hull;</hi> all which, when it shall be fully represented to the rest of your Countie, Hee doubts not but that you will rest verie well satisfied of his constant Reso<g ref="char:EOLhyphen"/>lution for the maintaining of, and governing you by the Law of the Land, his unmoveable Resolutions for the maintenance and de<g ref="char:EOLhyphen"/>fence of the true Protestant Profession, and the suppression and cha<g ref="char:EOLhyphen"/>stising of the barbarous <hi>Irish</hi> Rebellion. As for your apprehensions of danger of being left naked, and not put into a Posture of De<g ref="char:EOLhyphen"/>fence, his Majestie assures you, That Hee will take care that it shall be done in the true old Legall way which hath beene used in this Kingdome, without bringing in strangers to governe you, or ad<g ref="char:EOLhyphen"/>mitting <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew and exorbitant Powers, derogating both from his Majesties undoubted Legall Authoritie, and the Libertie of the Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject, which as He hath constantly denyed, so He expects, and no wayes doubts, but that you will give obedience to that, and that only, which shall proceed from his Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stie in a Legall way.</p>
+            <closer>
+               <signed>Subscribed by M. Secretarie Nicholas.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:107634:9"/>
+            <head>A Letter sent to the Right Worship<g ref="char:EOLhyphen"/>full the high Sheriffe, and the rest of the County of <hi>Yorke,</hi> now attending his sacred Majesties Pleasure.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Ow (if ever) stand fast, quit your selves as Fa<g ref="char:EOLhyphen"/>thers of your Country, let it appeare before God and all the World, that truly generous blood runs in your vienes; Evidence in Gods Name, your heartiest loyalty and dearest affection to his most sacred Majesty. But while you remember the King, forget not the Kingdome for the Lords sake; put not asunder those things which God hath so neerely joyned together, Oh consider the Honour, the cause of God, the good successe of this present Parliament, your lives, Lawes, Liberties, your temporall, your spirituall welfare lye all bleeding this day at your own feet, and earnestly supplicate your best assistance.</p>
+            <p>Tell Vs We beseech you; shall we dye and you live? Can it possibly goe well with you, while ill with Vs? Is it not your own cause and quarrell? nay, Gods and the Kings which wee maintaine? Stand you not as much interessed and as deeply in<g ref="char:EOLhyphen"/>gaged to appear, for God and the Kings honour as we our selves were disposed to recriminate, we could anathomize before God and man the worthlesnesse of those unreasonable men, who seem the great Zealots, not only for the ruine, but the ecclipsing of the glory of this blessed Parliament.</p>
+            <p>But our intent onely is to beg that at your hands which in Justice you dare not, and in charity, (we are sure) ought not to deny us, and that's your help and utmost indeavour in this nicke of our (we had almost said your) greatest necessity. Be assured there was never a greater prize in your hands then at this time. In poore Hull are imbarked two of the richest Jewels in the world. <hi>God truth,</hi> and <hi>Christendomes Peace:</hi> each of which in valuation far exceed a Kings Ransome.</p>
+            <p>We delight not in a needlesse &amp; superfluous expence of words,
+<pb facs="tcp:107634:10"/> and therfore we shall in short tel you, what wee or rather God expects this day at al your hands. <hi>viz.</hi> That you (and that with instance) petition his most Excellent Majesty, to vouchsafe the influence of his Royal favour and gracious presen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to his Great Councell, the High Court of Parliament, the only way, (in hu<g ref="char:EOLhyphen"/>mane apprehension) to stanch the bleeding wounds of <hi>Ireland,</hi> and distracted <hi>England.</hi>
+            </p>
+            <p>That you now help the Lord against the mighty.</p>
+            <p>That with as humble boldnesse you manifest your extreame unwillingnesse to come in an hostile way against us, least you bring guiltles blood upon your own heads, and kindle such a fire in <hi>England,</hi> as wil never be quenched: Assure your selves, that without much caution and greatest circumspection, you may raise up such a spirit as will not be conjur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d down again in haste.</p>
+            <p>Worthies, Ponder we beseech you our present but sad conditi<g ref="char:EOLhyphen"/>on, set your selves before Gods awfull bar, make our case your owne.</p>
+            <p>
+               <hi>Let your consciences speake, would you betray so great a trust committed to you, by so great a Councell? would you that we should wound through your sides heaven and Earth? what you shall at<g ref="char:EOLhyphen"/>tempt against us, wil in the reflection result upon God, the King, the Church, the State, your selves; Would you to satisfie a good King set open the Gates, and with the same curtesie gratifie a very had company, who seeke nothing lesse then either the safety of his Majesties Royall Person and Posterity; or the security of his Dominions, and Leig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>people? Would you have us wash our hands in your dearest blood? in sum; would you have us render you the people of the Kings wrath? Wee are confident you would not; Do then (according to the primordiall Law) as you would be done unto. Strike in we beseech you effectually whilst you have time, put not God upon another course of deliverance, least the honour of</hi> York-shire <hi>be laid in the dust for ever.</hi>
+            </p>
+            <p>
+               <hi>Oh▪ give us in this great streight, reall testimony of your af<g ref="char:EOLhyphen"/>fections; and you shall for ever have the acknowledgement of the reall obligations of all.</hi>
+            </p>
+            <closer>
+               <signed>Your affectionate friends and humble Servants in the port Town of <hi>Hul.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107634:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
